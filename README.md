@@ -1,5 +1,6 @@
 Apple File Conduit "2" (iOS 11+, arm64)
 =======================================
+i-funbox, ifile 등으로 컴퓨터에서 시스템파일을 건드릴 수 있게 해주는 용도의 트윅입니다.
 
 **Works on any arm64 device running iOS 11 and higher.**
 
