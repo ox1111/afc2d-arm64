@@ -1,6 +1,6 @@
 Apple File Conduit "2" (iOS 11+, arm64)
 =======================================
-i-funbox, ifile 등으로 컴퓨터에서 시스템파일을 건드릴 수 있게 해주는 용도의 트윅입니다.
+AFC는 모든 arm64 디바이스에 대해 USB를 통한 전체 파일 시스템 액세스를 허용
 
 **Works on any arm64 device running iOS 11 and higher.**
 
